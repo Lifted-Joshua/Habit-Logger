@@ -41,3 +41,4 @@ C:\Users\Lifted.Joshua\OneDrive - AddSecure\Desktop\C# Academy Projects\HabitLog
 C:\Users\Lifted.Joshua\OneDrive - AddSecure\Desktop\C# Academy Projects\HabitLoggerProject\HabbitLogger\obj\Debug\net10.0\HabbitLogger.pdb
 C:\Users\Lifted.Joshua\OneDrive - AddSecure\Desktop\C# Academy Projects\HabitLoggerProject\HabbitLogger\obj\Debug\net10.0\HabbitLogger.genruntimeconfig.cache
 C:\Users\Lifted.Joshua\OneDrive - AddSecure\Desktop\C# Academy Projects\HabitLoggerProject\HabbitLogger\obj\Debug\net10.0\ref\HabbitLogger.dll
+C:\Users\Lifted.Joshua\OneDrive - AddSecure\Desktop\C# Academy Projects\HabitLoggerProject\HabbitLogger\obj\Debug\net10.0\HabbitLogger.sourcelink.json
